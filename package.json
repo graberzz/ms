@@ -1,0 +1,15 @@
+{
+  "name": "microservices_tutorial-master",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ecosystem.config.js",
+  "scripts": {
+    "start": "pm2 start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pm2": "^5.3.0"
+  }
+}
